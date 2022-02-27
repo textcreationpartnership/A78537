@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short abstract of Doctor H. Chamberlen's proposal to the honourable House of Commons, the last sessions. And also of Mr. John Briscoe's present printed proposal, compared together ...</title>
+            <author>Chamberlen, Hugh.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78537</idno>
+            <idno type="STC">Wing C1890B</idno>
+            <idno type="STC">ESTC R234040</idno>
+            <idno type="EEBO-CITATION">47682818</idno>
+            <idno type="OCLC">ocm 47682818</idno>
+            <idno type="VID">172777</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78537)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172777)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2649:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short abstract of Doctor H. Chamberlen's proposal to the honourable House of Commons, the last sessions. And also of Mr. John Briscoe's present printed proposal, compared together ...</title>
+                  <author>Chamberlen, Hugh.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed by Goldsmiths' Lib. cat and Wing to Hugh Chamberlen.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chamberlen, Hugh. --  Petitions and proposals for a land bank to increase trade.</term>
+               <term>Briscoe, John, fl. 1695. --  Reasons humbly offered for the establishment of the national land-bank.</term>
+               <term>Land banks --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172777:1" rendition="simple:additions"/>
+            <head>A Short ABSTRACT of <hi>Doctor H. Chamberlen</hi>'s PROPOSAL To the HONOURABLE Houſe of Commons The Laſt SESSIONS.</head>
+            <head type="sub">And alſo of Mr. <hi>John Briſcoe</hi>'s preſent Printed Propoſal com<g ref="char:EOLhyphen"/>pared together, whereby the Benefits of each to the Nati<g ref="char:EOLhyphen"/>on, and every Freeholder concern'd, may plainly appear.</head>
+            <p>
+               <hi>DOctor</hi> Chamberlen <hi>having attended this Honourable Houſe with a Propoſal for Raiſing current Credit upon Land, the beſt of Securities, for above Four Years, in which time he obtained Two ſeveral Committees; the firſt of which was ready to make, after a ſtrict Examination, a Favourable Report for it; and the laſt, upon like Examination, did make a Report to this Houſe, that the ſaid Propoſal was both Profitable and Practicable, which is all that is neceſſary for the Recommendation of any Thing or Deſign in the World. And now there having been lately an Ingenious Book Preſented to this Houſe by Mr.</hi> John Briſcoe, <hi>which amongſt other things hath with much Reaſon and Argument Recommended the</hi> Baſis <hi>or Foundation, upon which the Doctor's Propoſal is Built, but withal, hath ſomething diſguiſed the ſame; the Doctor therefore preſumes humbly to pre<g ref="char:EOLhyphen"/>ſent a ſhort Abſtract of both Propoſals to the Serious Confideration and Wiſdom of this Ho<g ref="char:EOLhyphen"/>nourable Houſe, that ſo they may Judge whether either deſerves Encouragement, and which of the Two the Preference.</hi>
+            </p>
+            <p>THE Doctor propoſeth, that a Credit of Twenty Millions may be made cur<g ref="char:EOLhyphen"/>rent by Act of Parliament, upon a Fund of the Yearly Rents of Private Gen<g ref="char:EOLhyphen"/>tlemens Eſtates in Land, voluntarily engaged to pay an Hundred equal An<g ref="char:EOLhyphen"/>nual Rents within an Hundred and Fifty Years. And for Encouragement, each Per<g ref="char:EOLhyphen"/>ſon obliging his Eſtate to pay 100 <hi>l. per Annum</hi> accordingly, in current Credit only, ſhall receive immediately 4000 <hi>l.</hi> in the ſame Credit, and have 2000 <hi>l.</hi> more in a Joint<g ref="char:EOLhyphen"/>ſtock of Trade, and pay 2000 <hi>l.</hi> more, without Intereſt or Repayment, to the Go<g ref="char:EOLhyphen"/>vernment, for the uſe of the War, if the Parliament ſo pleaſe: Which will ſave the Gentleman, and the whole Nation Eight Shillings in the Pound for once, provided the ſaid Eſtate ſo engaged be exempted from Taxes for the ſaid Term of a Hundred Years; and all this without much Trouble to the Freeholder, or any Charge either to the Government or Subject.</p>
+            <p>Mr. <hi>Briſcoe</hi>'s Propoſal offers, that the like current Credit be raiſed upon Private Gentlemens Eſtates in Land, ingaged to pay half <hi>per Cent.</hi> for ever: And for Encou<g ref="char:EOLhyphen"/>ragement, each Perſon engaging an Eſtate of 100 <hi>l. per Annum,</hi> to pay Ten Pounds <hi>per Annum</hi> for ever, ſhall receive 2000 <hi>l.</hi> in hand; and that, if the ſame be Lent to the Government at Three Pound <hi>per Cent.</hi> or for Term of Years, according to that Rate, the Eſtate to remain Tax-free ſo long.</p>
+            <p>But as this is a far leſs Encouragement to the Freeholder than the Doctor's, ſo there is required much more Care and Trouble to ſettle Eſtates according to Mr. <hi>Briſcoe</hi>'s Rules, and alſo in paſſing and renewing the Paper Bills of Credit, nothing ſo ſafe or eaſie to prevent Counterfeits by the Endorſements, as by the Method offer'd by the Doctor.</p>
+            <p>So that an Eſtate of the ſame Value yields to the Freeholder, by the Doctor's Pro<g ref="char:EOLhyphen"/>poſal 6000 <hi>l.</hi> paying 100 <hi>l. per Annum</hi> for a Hundred Years, which at Six <hi>per Cent. per Annum</hi> Intereſt, raiſeth 360 <hi>l.</hi> and may much more if the Joint-ſtock be well im<g ref="char:EOLhyphen"/>proved, which is 260 <hi>l.</hi> more than the ſame Eſtate yielded before, and 150 <hi>l.</hi> Year<g ref="char:EOLhyphen"/>ly more than Mr. <hi>Briſcoe</hi> propoſeth.</p>
+            <pb facs="tcp:172777:2"/>
+            <p>And by Mr. <hi>Briſcoe</hi>'s, but 2000 <hi>l.</hi> paying for ever 10 <hi>l. per Annum,</hi> which at <hi>per Cent.</hi> may yield 120 <hi>l.</hi> which is but 110 <hi>l. per Annum</hi> more than before, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 150 <hi>l. per Annum</hi> leſs than the Doctor's as by the following Scheme may be re<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> perceived.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Value of Lands ſetled</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Paid in hand</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Joint<g ref="char:EOLhyphen"/>ſtock</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>To the Publick.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Years En<g ref="char:EOLhyphen"/>gage</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Yearly Intereſt of the whole</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Yearly Rent Paid</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2000 <hi>l.</hi>
+                        <note place="margin">Propoſed by the Doctor.</note>
+                     </cell>
+                     <cell>4000 <hi>l.</hi>
+                     </cell>
+                     <cell>2000 <hi>l.</hi>
+                     </cell>
+                     <cell>2000 <hi>l.</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>360 <hi>l.</hi>
+                     </cell>
+                     <cell>100 <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2000 <hi>l.</hi>
+                        <note place="margin">
+                           <hi>Propoſed by Mr.</hi> Briſ<g ref="char:EOLhyphen"/>coe.</note>
+                     </cell>
+                     <cell>2000 <hi>l.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Perpetuity</hi>
+                     </cell>
+                     <cell>220 <hi>l.</hi>
+                     </cell>
+                     <cell>10 <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Clear Yearly Gain by the Doctor more than Mr. <hi>Briſcoe</hi>'s—<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>By the Doctor's Propoſal, the Engaged Eſtate will be after a Hundred Years <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> charged from this Incumbrance, and Free for the like Settlement of as much <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which being engaged for ever by Mr. <hi>Briſcoe</hi>'s, can admit of no further Improvem<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> And 'tis much better for the Nation to raiſe 10000 <hi>l.</hi> upon the ſame Eſtate t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 2000 <hi>l.</hi> All other Advantages ſhall at preſent be paſt over, except the Examina<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Difference of the Charge of each of theſe Propoſals: And we will Calculate<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for Twenty Millions, though Mr. <hi>Briſcoe</hi> aims at Fifty Millions.</p>
+            <p>Firſt, Mr. <hi>Briſcoe</hi>'s propoſeth, the King ſhould allow 20000 <hi>l. per Annum</hi> to Commiſſioners, beſides ſome other petty Charges, as 1000 <hi>l. per Annum</hi> for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Million, and that Half <hi>per Cent.</hi> be paid Annually for the Support of the Office, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for but Twenty Millions, comes to 100000 <hi>l. per Annum</hi> for ever, which toget<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at Twenty Years Purchaſe, ariſeth to 2800000 <hi>l.</hi>
+            </p>
+            <p>And Doctor <hi>Chamberlen</hi> propoſeth, to perform all the ſaid Service, and much m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only for a Reverſion of Twenty Years, upon the Subſcribing Gentlemens Eſtates, ter the Fourſcore Years charged for themſelves and the Government, ſhall be elap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which cannot be valued at above Half a Years Purchaſe, or 100000 <hi>l.</hi> for the Twe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Millions, raiſed upon 200000 <hi>l. per Annum,</hi> which is but the Twenty-eighth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of what Mr. <hi>Briſcoe</hi>'s Charge amounts to: Now may it not deſerve Encouragem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Admiſſion, if by the Doctor's proper Induſtry, without Damage to the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prietor, and with new and great Advantage to the Nation and Trade, he imp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this ſmall Sum, as ſo it ſhall fully defray all the great Expences, neceſſarily att<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing this Deſign, and find new Employments, very fit for near an Hundred Gen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men, without any manner of Charge to the King or Nation, or without Depend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on the Court?</p>
+            <p>There are ſome other Objections have been raiſed againſt the Doctor's Prope<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which equally affects Mr. <hi>Briſcoe</hi>'s, which ſhall be now only named, and when <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>manded, 'tis hoped will be anſwer'd to full Satisfaction: As, Firſt, The length the Term a Hundred Years, exceeded by Mr. <hi>Briſcoe</hi> to a Perpetuity. Secondly, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Credit the Doctor gives exceeds the Value of the Purchaſe, ſo doth Mr. <hi>Bri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> by Twenty Years; and if not miſtaken, by Twenty more, in all Sixty Years. Th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly, Impoſing the Credit upon the Subject, which Mr. <hi>Briſcoe</hi> pleads for very ratio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly. Fourthly, That we ſhall have more Credit than can be employ'd; Mr. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> aims at Fifty Millions, and is not limited there: the Doctor propoſes not to ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Twenty Millions by this Act. Fourthly, That the Doctor's Credit willd rive Mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of the Land; ſo then Mr. <hi>Briſcoe</hi>'s cannot avoid the ſame Miſchief. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mr. <hi>Briſcoe</hi> is in the following Particulars leſs perfect than the Doctors; for by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Credit cannot begin to be iſſued, till after Six Months at leaſt; the Doctor's may Month. The Nation muſt pay for ever Three <hi>per Cent.</hi> Intereſt for the Supply to King by Mr. <hi>Briſcoe,</hi> when by the Doctor's there will be Advanced, without Inter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Four Millions, and a Million <hi>per Annum,</hi> or more, for ever, if the Parliament ple<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>The Doctor did not think it neceſſary to Inſtruct Perſons what to do with th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Money; becauſe he preſumed, that ſuch as had Occaſions for Credit, would raiſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſuch as knew not how to employ it, would let it alone.</p>
+            <p>They that pleaſe to be better inform'd in this Subject, may peruſe ſome late <hi>Pam<g ref="char:EOLhyphen"/>phlets</hi> Printed at <hi>Tacy Sowle</hi>'s, next the Meeting-houſe in <hi>White-Hart Court</hi> in <hi>Gracicus<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-ſtreet,</hi> as, <hi>
+                  <g ref="char:V">Ʋ</g>ſeful Reflections upon a Pamphlet, called, A Brief Account of the Intendes Bank of</hi> England, <hi>with a Deſcription of Doctor</hi> Chamberlen<hi>'s Bank:</hi> And another called. <hi>Reflections on the ſame Pamphlet, ſuppoſed to be Writ by Mr.</hi> Jerry Squirt: And laſtly, <hi>The Tunnage Bank compared with Dr.</hi> Chamberlen<hi>'s Land-Fund of Credit.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
